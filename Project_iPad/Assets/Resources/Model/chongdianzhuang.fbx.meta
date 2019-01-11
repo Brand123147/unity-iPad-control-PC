@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: bef469262b536dc478f0b3631781b18a
+timeCreated: 1540547826
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box003
+    100004: Box004
+    100006: //RootNode
+    100008: Circle002
+    100010: Circle003
+    100012: Circle004
+    100014: Circle006
+    100016: Circle007
+    100018: Circle008
+    100020: Circle009
+    100022: joint1
+    100024: joint10
+    100026: joint11
+    100028: joint12
+    100030: joint13
+    100032: joint14
+    100034: joint15
+    100036: joint16
+    100038: joint17
+    100040: joint18
+    100042: joint19
+    100044: joint2
+    100046: joint3
+    100048: joint4
+    100050: joint5
+    100052: joint6
+    100054: joint7
+    100056: joint8
+    100058: joint9
+    100060: Line001
+    100062: Line003
+    100064: Rectangle002
+    100066: Rectangle004
+    100068: Rectangle005
+    100070: Rectangle006
+    100072: "\u5BF9\u8C61"
+    100074: "\u7EC4002"
+    400000: Box001
+    400002: Box003
+    400004: Box004
+    400006: //RootNode
+    400008: Circle002
+    400010: Circle003
+    400012: Circle004
+    400014: Circle006
+    400016: Circle007
+    400018: Circle008
+    400020: Circle009
+    400022: joint1
+    400024: joint10
+    400026: joint11
+    400028: joint12
+    400030: joint13
+    400032: joint14
+    400034: joint15
+    400036: joint16
+    400038: joint17
+    400040: joint18
+    400042: joint19
+    400044: joint2
+    400046: joint3
+    400048: joint4
+    400050: joint5
+    400052: joint6
+    400054: joint7
+    400056: joint8
+    400058: joint9
+    400060: Line001
+    400062: Line003
+    400064: Rectangle002
+    400066: Rectangle004
+    400068: Rectangle005
+    400070: Rectangle006
+    400072: "\u5BF9\u8C61"
+    400074: "\u7EC4002"
+    2300000: Box001
+    2300002: Box003
+    2300004: Box004
+    2300006: Circle002
+    2300008: Circle003
+    2300010: Circle004
+    2300012: Circle006
+    2300014: Circle007
+    2300016: Circle008
+    2300018: Circle009
+    2300020: Line001
+    2300022: Line003
+    2300024: Rectangle002
+    2300026: Rectangle004
+    2300028: Rectangle005
+    2300030: Rectangle006
+    3300000: Box001
+    3300002: Box003
+    3300004: Box004
+    3300006: Circle002
+    3300008: Circle003
+    3300010: Circle004
+    3300012: Circle006
+    3300014: Circle007
+    3300016: Circle008
+    3300018: Circle009
+    3300020: Line001
+    3300022: Line003
+    3300024: Rectangle002
+    3300026: Rectangle004
+    3300028: Rectangle005
+    3300030: Rectangle006
+    4300000: Line003
+    4300002: Circle003
+    4300004: Circle007
+    4300006: Box004
+    4300008: Line001
+    4300010: Circle009
+    4300012: Rectangle006
+    4300014: Circle002
+    4300016: Circle004
+    4300018: Rectangle005
+    4300020: Circle006
+    4300022: Circle008
+    4300024: Box003
+    4300026: Rectangle004
+    4300028: Box001
+    4300030: Rectangle002
+    4300032: "\u5BF9\u8C61"
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: "\u5BF9\u8C61"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: "\u5BF9\u8C61"
+        weight: 1
+      - path: "\u7EC4002"
+        weight: 1
+      - path: "\u7EC4002/Box001"
+        weight: 1
+      - path: "\u7EC4002/Box003"
+        weight: 1
+      - path: "\u7EC4002/Box004"
+        weight: 1
+      - path: "\u7EC4002/Circle002"
+        weight: 1
+      - path: "\u7EC4002/Circle003"
+        weight: 1
+      - path: "\u7EC4002/Circle004"
+        weight: 1
+      - path: "\u7EC4002/Circle006"
+        weight: 1
+      - path: "\u7EC4002/Circle007"
+        weight: 1
+      - path: "\u7EC4002/Circle008"
+        weight: 1
+      - path: "\u7EC4002/Circle009"
+        weight: 1
+      - path: "\u7EC4002/Line001"
+        weight: 1
+      - path: "\u7EC4002/Line003"
+        weight: 1
+      - path: "\u7EC4002/Rectangle002"
+        weight: 1
+      - path: "\u7EC4002/Rectangle004"
+        weight: 1
+      - path: "\u7EC4002/Rectangle005"
+        weight: 1
+      - path: "\u7EC4002/Rectangle006"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
